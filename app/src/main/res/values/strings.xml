@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpofiData</string>
+    <string name="no_artist_top_tracks">No artist top tracks</string>
+    <string name="no_user_top_tracks">No user top tracks</string>
+    <string name="no_user_top_artists">No user top artists</string>
+    <string name="one_month">1 month</string>
+    <string name="six_month">6 months</string>
+    <string name="one_year">1 year</string>
+</resources>
