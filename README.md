@@ -11,6 +11,7 @@ Spofidata is an Android app that displays data about your top tracks and artists
 * Coil
 * Spotify SDK
 * Coroutines
+* View Model
 
 ## Functionality
 
